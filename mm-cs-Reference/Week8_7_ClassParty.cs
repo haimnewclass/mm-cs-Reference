@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -12,7 +13,7 @@ namespace mm_cs_Reference
 
         public Dr(int ID):base(ID) 
         {
-            
+         
         }
 
         public Dr(int ID, string NAME):base(ID,NAME)

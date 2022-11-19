@@ -25,12 +25,8 @@ namespace mm_cs_Reference
             week8_5_Statis.Ran();
 
 
-                
 
-
-
-
-             Week8_4_Static week8_4_Static = new Week8_4_Static();
+            Week8_4_Static week8_4_Static = new Week8_4_Static();
             week8_4_Static.Run();
             Week8_4_Properties week8_4_Properties = new Week8_4_Properties();
             week8_4_Properties.RunProperty();
