@@ -12,6 +12,12 @@ namespace mm_cs_Reference
     {
         static void Main(string[] args)
         {
+
+            Week8_7_ClassParty week8_7_ClassParty = new Week8_7_ClassParty();
+            week8_7_ClassParty.Run();
+
+
+
             Week8_5_ClassFactory.Run();
 
             // Week8_5_Statis.Student student = new Week8_5_Statis.Student("234234");

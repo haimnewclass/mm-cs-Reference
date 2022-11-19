@@ -58,6 +58,7 @@
     <Compile Include="Week8_5_BasePointer.cs" />
     <Compile Include="Week8_5_ClassFactory.cs" />
     <Compile Include="Week8_5_ConstractorsBase.cs" />
+    <Compile Include="Week8_7_ClassParty.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
