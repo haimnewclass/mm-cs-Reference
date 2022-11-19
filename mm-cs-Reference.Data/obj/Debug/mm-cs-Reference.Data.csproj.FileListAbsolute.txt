@@ -1,0 +1,6 @@
+C:\Users\haim\source\repos\mm-cs-Reference\mm-cs-Reference.Data\bin\Debug\mm-cs-Reference.Data.dll
+C:\Users\haim\source\repos\mm-cs-Reference\mm-cs-Reference.Data\bin\Debug\mm-cs-Reference.Data.pdb
+C:\Users\haim\source\repos\mm-cs-Reference\mm-cs-Reference.Data\obj\Debug\mm-cs-Reference.Data.csproj.AssemblyReference.cache
+C:\Users\haim\source\repos\mm-cs-Reference\mm-cs-Reference.Data\obj\Debug\mm-cs-Reference.Data.csproj.CoreCompileInputs.cache
+C:\Users\haim\source\repos\mm-cs-Reference\mm-cs-Reference.Data\obj\Debug\mm-cs-Reference.Data.dll
+C:\Users\haim\source\repos\mm-cs-Reference\mm-cs-Reference.Data\obj\Debug\mm-cs-Reference.Data.pdb

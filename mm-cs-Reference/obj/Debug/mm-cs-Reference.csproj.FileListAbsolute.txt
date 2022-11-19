@@ -1,0 +1,14 @@
+C:\Users\haim\source\repos\mm-cs-Reference\mm-cs-Reference\bin\Debug\mm-cs-Reference.exe.config
+C:\Users\haim\source\repos\mm-cs-Reference\mm-cs-Reference\bin\Debug\mm-cs-Reference.exe
+C:\Users\haim\source\repos\mm-cs-Reference\mm-cs-Reference\bin\Debug\mm-cs-Reference.pdb
+C:\Users\haim\source\repos\mm-cs-Reference\mm-cs-Reference\obj\Debug\mm-cs-Reference.csproj.AssemblyReference.cache
+C:\Users\haim\source\repos\mm-cs-Reference\mm-cs-Reference\obj\Debug\mm-cs-Reference.csproj.SuggestedBindingRedirects.cache
+C:\Users\haim\source\repos\mm-cs-Reference\mm-cs-Reference\obj\Debug\mm-cs-Reference.csproj.CoreCompileInputs.cache
+C:\Users\haim\source\repos\mm-cs-Reference\mm-cs-Reference\obj\Debug\mm-cs-Reference.exe
+C:\Users\haim\source\repos\mm-cs-Reference\mm-cs-Reference\obj\Debug\mm-cs-Reference.pdb
+C:\Users\haim\source\repos\mm-cs-Reference\mm-cs-Reference\bin\Debug\mm-cs-Working.dll
+C:\Users\haim\source\repos\mm-cs-Reference\mm-cs-Reference\bin\Debug\mm-cs-Working.pdb
+C:\Users\haim\source\repos\mm-cs-Reference\mm-cs-Reference\obj\Debug\mm-cs-Reference.csproj.CopyComplete
+C:\Users\haim\source\repos\mm-cs-Reference\mm-cs-Reference\bin\Debug\mm-cs-Reference.Data.dll
+C:\Users\haim\source\repos\mm-cs-Reference\mm-cs-Reference\bin\Debug\RandomNum (1).dll
+C:\Users\haim\source\repos\mm-cs-Reference\mm-cs-Reference\bin\Debug\mm-cs-Reference.Data.pdb
