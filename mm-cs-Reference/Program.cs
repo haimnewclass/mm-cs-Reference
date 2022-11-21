@@ -10,9 +10,18 @@ namespace mm_cs_Reference
 {
     internal class Program
     {
+        static int GetA()
+        {
+            return 0;
+        }
         static void Main(string[] args)
         {
+            int a;
+            GetA();
+            mm_cs_Reference.Patterns.Week9_2_Singletone week9_2_Singletone = new mm_cs_Reference.Patterns.Week9_2_Singletone();
+            week9_2_Singletone.Run();
 
+            Week9_1_Consts.Run();
             Week8_7_ClassParty week8_7_ClassParty = new Week8_7_ClassParty();
             week8_7_ClassParty.Run();
 
@@ -32,13 +41,9 @@ namespace mm_cs_Reference
             week8_4_Properties.RunProperty();
             Lunapark.IceCream ice;
             Park.IceCream park;
- 
 
-              
 
         }
-
-
     }
 }
 
