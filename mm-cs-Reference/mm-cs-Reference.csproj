@@ -61,6 +61,8 @@
     <Compile Include="Week8_5_ConstractorsBase.cs" />
     <Compile Include="Week8_7_ClassParty.cs" />
     <Compile Include="Week9_1_Consts.cs" />
+    <Compile Include="Week9_2_DirectData.cs" />
+    <Compile Include="Week9_2_Hashtable.cs" />
     <Compile Include="Week9_2_Singletone.cs" />
   </ItemGroup>
   <ItemGroup>

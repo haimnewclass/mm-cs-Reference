@@ -12,8 +12,7 @@ namespace mm_cs_Reference
         {
             Ball a = new Ball();
             Toy b = new Toy();
-
-
+        
             Item item = new Toy();
 
             a.Func2();
