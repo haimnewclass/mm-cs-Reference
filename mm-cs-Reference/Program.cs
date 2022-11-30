@@ -17,6 +17,9 @@ namespace mm_cs_Reference
         static void Main(string[] args)
         {
 
+
+            Week10_4_Enum.Run();
+
             try
             {
                 int r = Week10_2_Exception.Instance.test(10, 0);

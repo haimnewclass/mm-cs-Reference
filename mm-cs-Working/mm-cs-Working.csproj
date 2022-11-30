@@ -43,6 +43,8 @@
   <ItemGroup>
     <Compile Include="Cars.cs" />
     <Compile Include="Class1.cs" />
+    <Compile Include="Cola.cs" />
+    <Compile Include="Cola_1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Tools.cs" />
   </ItemGroup>
