@@ -13,6 +13,8 @@ namespace mm_cs_WorkingWithDB
 {
     public partial class Form1 : Form
     {
+        const string connectionString = "Server=tcp:haimgilboavote.database.windows.net,1433;Initial Catalog=vote;Persist Security Info=False;User ;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;";
+
         public Form1()
         {
             InitializeComponent();
@@ -20,8 +22,7 @@ namespace mm_cs_WorkingWithDB
 
         private void button1_Click(object sender, EventArgs e)
         {
-            const string connectionString = "Server=tcp:haimgilboavote.database.windows.net,1433;Initial Catalog=vote;Persist Security Info=False;User ;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;";
-
+  
 
 
             // Connection
@@ -31,22 +32,51 @@ namespace mm_cs_WorkingWithDB
                 string queryString = "select 123,+ 23 as 'calc', code,email,99 from email";
 
                 // Adapter
-                SqlCommand command = new SqlCommand(queryString, connection);
-                connection.Open();
-
-                //Reader
-                using (SqlDataReader reader = command.ExecuteReader())
+                using (SqlCommand command = new SqlCommand(queryString, connection))
                 {
-                    while (reader.Read())
+                    connection.Open();
+
+                    //Reader
+                    using (SqlDataReader reader = command.ExecuteReader())
                     {
-                        int colIdx = reader.GetOrdinal("email");
-                        string email = reader.GetString(colIdx);
-                        string code = reader.GetString(reader.GetOrdinal("code"));
-                        int num = reader.GetInt32(2);
+                        while (reader.Read())
+                        {
+                            int colIdx = reader.GetOrdinal("email");
+                            string email = reader.GetString(colIdx);
+                            string code = reader.GetString(reader.GetOrdinal("code"));
+                            int num = reader.GetInt32(2);
+                        }
                     }
                 }
 
             }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+
+
+            // Connection
+            using (SqlConnection connection = new SqlConnection(connectionString))
+            {
+
+                string queryString = "update tbl set name='kuku'";
+
+                // Adapter
+                using (SqlCommand command = new SqlCommand(queryString, connection))
+                {
+                    connection.Open();
+
+                    int rowsEffectes = command.ExecuteNonQuery()
+                }
+                   
+
+
+
+            }
+
+
         }
     }
 }
