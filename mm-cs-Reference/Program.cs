@@ -16,7 +16,7 @@ namespace mm_cs_Reference
         }
         static void Main(string[] args)
         {
-
+            mm_cs_Working.Cars.Sql();
 
             Week10_4_Enum.Run();
 

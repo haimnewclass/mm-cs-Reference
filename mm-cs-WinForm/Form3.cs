@@ -16,5 +16,10 @@ namespace mm_cs_WinForm
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            mm_cs_Working.Cars.Sql();
+        }
     }
 }
