@@ -18,3 +18,6 @@ C:\Users\haim\source\repos\mm-cs-Reference\mm-cs-WinForm\obj\Debug\net6.0-window
 C:\Users\haim\source\repos\mm-cs-Reference\mm-cs-WinForm\obj\Debug\net6.0-windows\mm_cs_WinForm.Form2.resources
 C:\Users\haim\source\repos\mm-cs-Reference\mm-cs-WinForm\obj\Debug\net6.0-windows\mm_cs_WinForm.Form3.resources
 C:\Users\haim\source\repos\mm-cs-Reference\mm-cs-WinForm\obj\Debug\net6.0-windows\mm_cs_WinForm.Properties.Resources.resources
+C:\Users\haim\source\repos\mm-cs-Reference\mm-cs-WinForm\bin\Debug\net6.0-windows\mm-cs-Working.dll
+C:\Users\haim\source\repos\mm-cs-Reference\mm-cs-WinForm\bin\Debug\net6.0-windows\mm-cs-Working.pdb
+C:\Users\haim\source\repos\mm-cs-Reference\mm-cs-WinForm\obj\Debug\net6.0-windows\mm-cs-WinForm.csproj.CopyComplete

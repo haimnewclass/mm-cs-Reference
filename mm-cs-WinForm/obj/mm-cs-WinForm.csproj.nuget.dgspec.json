@@ -27,7 +27,11 @@
         "frameworks": {
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\haim\\source\\repos\\mm-cs-Reference\\mm-cs-Working\\mm-cs-Working.csproj": {
+                "projectPath": "C:\\Users\\haim\\source\\repos\\mm-cs-Reference\\mm-cs-Working\\mm-cs-Working.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -60,6 +64,21 @@
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
+      }
+    },
+    "C:\\Users\\haim\\source\\repos\\mm-cs-Reference\\mm-cs-Working\\mm-cs-Working.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\haim\\source\\repos\\mm-cs-Reference\\mm-cs-Working\\mm-cs-Working.csproj",
+        "projectName": "mm-cs-Working",
+        "projectPath": "C:\\Users\\haim\\source\\repos\\mm-cs-Reference\\mm-cs-Working\\mm-cs-Working.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
       }
     }
   }

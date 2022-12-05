@@ -1,11 +1,29 @@
 {
   "version": 3,
   "targets": {
-    "net6.0-windows7.0": {}
+    "net6.0-windows7.0": {
+      "mm-cs-Working/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/mm-cs-Working.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/mm-cs-Working.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "mm-cs-Working/1.0.0": {
+      "type": "project",
+      "path": "../mm-cs-Working/mm-cs-Working.csproj",
+      "msbuildProject": "../mm-cs-Working/mm-cs-Working.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0-windows7.0": []
+    "net6.0-windows7.0": [
+      "mm-cs-Working >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\haim\\.nuget\\packages\\": {}
@@ -33,7 +51,11 @@
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\haim\\source\\repos\\mm-cs-Reference\\mm-cs-Working\\mm-cs-Working.csproj": {
+              "projectPath": "C:\\Users\\haim\\source\\repos\\mm-cs-Reference\\mm-cs-Working\\mm-cs-Working.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

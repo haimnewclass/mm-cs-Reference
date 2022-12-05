@@ -13,7 +13,7 @@ namespace mm_cs_Working
         public static void Sql()
         {
 
-            string connectionString = "Server=tcp:haimgilboavote.database.windows.net,1433;Initial Catalog=vote;Persist Security Info=False;User ID=haim;Password=Qwe123Qwe123;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;";
+            string connectionString = "Server=tcp:haimgilboavote.database.windows.net,1433;Initial Catalog=vote;Persist Security Info=False;User ID=haim;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;";
 
 
             string queryString = "SELECT * FROM dbo.email";
