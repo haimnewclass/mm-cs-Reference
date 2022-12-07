@@ -54,6 +54,7 @@
     <Compile Include="Week10_2_Exception.cs" />
     <Compile Include="Week10_4_Enum.cs" />
     <Compile Include="Week10_4_Interfaces.cs" />
+    <Compile Include="Week11_4_Delegate.cs" />
     <Compile Include="Week8_1_Object.cs" />
     <Compile Include="Week8_4_AddRef.cs" />
     <Compile Include="Week8_4_namespace.cs" />

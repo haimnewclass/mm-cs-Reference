@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
+using System.Configuration;
 using System.Data;
 using System.Data.SqlClient;
 using System.Drawing;
@@ -22,7 +23,7 @@ namespace mm_cs_WorkingWithDB
 
         private void button1_Click(object sender, EventArgs e)
         {
-  
+            string occupation = ConfigurationManager.AppSettings["occupation"];
 
 
             // Connection
@@ -68,7 +69,7 @@ namespace mm_cs_WorkingWithDB
                 {
                     connection.Open();
 
-                    int rowsEffectes = command.ExecuteNonQuery()
+                    int rowsEffectes = command.ExecuteNonQuery();
                 }
                    
 
