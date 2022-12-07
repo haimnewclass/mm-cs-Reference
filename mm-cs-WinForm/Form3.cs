@@ -21,5 +21,16 @@ namespace mm_cs_WinForm
         {
             mm_cs_Working.Cars.Sql();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+           MessageBox.Show( DelegateClass.Instance.Calc(Int32.Parse(textBox1.Text), Int32.Parse(textBox2.Text), DelegateClass.Instance.Plus).ToString());
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show(DelegateClass.Instance.Calc(Int32.Parse(textBox1.Text), Int32.Parse(textBox2.Text), DelegateClass.Instance.Minus).ToString());
+
+        }
     }
 }

@@ -23,9 +23,12 @@ namespace mm_cs_WorkingWithDB
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string occupation = ConfigurationManager.AppSettings["occupation"];
+           
 
-
+            string s1 = ConfigurationManager.AppSettings["outputFolder"];
+            
+            
+            
             // Connection
             using (SqlConnection connection = new SqlConnection(connectionString))
             {
