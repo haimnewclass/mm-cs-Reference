@@ -57,6 +57,8 @@
     <Compile Include="Week11_4_Delegate.cs" />
     <Compile Include="Week12_7_Generics.cs" />
     <Compile Include="Week12_7_Generics2.cs" />
+    <Compile Include="Week13_1_QueueFiles.cs" />
+    <Compile Include="Week13_1_Threading2.cs" />
     <Compile Include="Week8_1_Object.cs" />
     <Compile Include="Week8_4_AddRef.cs" />
     <Compile Include="Week8_4_namespace.cs" />
