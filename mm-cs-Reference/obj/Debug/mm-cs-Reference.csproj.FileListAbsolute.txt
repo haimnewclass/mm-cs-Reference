@@ -12,3 +12,21 @@ C:\Users\haim\source\repos\mm-cs-Reference\mm-cs-Reference\obj\Debug\mm-cs-Refer
 C:\Users\haim\source\repos\mm-cs-Reference\mm-cs-Reference\bin\Debug\mm-cs-Reference.Data.dll
 C:\Users\haim\source\repos\mm-cs-Reference\mm-cs-Reference\bin\Debug\RandomNum (1).dll
 C:\Users\haim\source\repos\mm-cs-Reference\mm-cs-Reference\bin\Debug\mm-cs-Reference.Data.pdb
+C:\Users\haim\source\repos\mm-cs-Reference\mm-cs-Reference\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\haim\source\repos\mm-cs-Reference\mm-cs-Reference\bin\Debug\System.Buffers.dll
+C:\Users\haim\source\repos\mm-cs-Reference\mm-cs-Reference\bin\Debug\System.Memory.dll
+C:\Users\haim\source\repos\mm-cs-Reference\mm-cs-Reference\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\haim\source\repos\mm-cs-Reference\mm-cs-Reference\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\haim\source\repos\mm-cs-Reference\mm-cs-Reference\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\haim\source\repos\mm-cs-Reference\mm-cs-Reference\bin\Debug\System.Text.Json.dll
+C:\Users\haim\source\repos\mm-cs-Reference\mm-cs-Reference\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\haim\source\repos\mm-cs-Reference\mm-cs-Reference\bin\Debug\System.ValueTuple.dll
+C:\Users\haim\source\repos\mm-cs-Reference\mm-cs-Reference\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\haim\source\repos\mm-cs-Reference\mm-cs-Reference\bin\Debug\System.Buffers.xml
+C:\Users\haim\source\repos\mm-cs-Reference\mm-cs-Reference\bin\Debug\System.Memory.xml
+C:\Users\haim\source\repos\mm-cs-Reference\mm-cs-Reference\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\haim\source\repos\mm-cs-Reference\mm-cs-Reference\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\haim\source\repos\mm-cs-Reference\mm-cs-Reference\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\haim\source\repos\mm-cs-Reference\mm-cs-Reference\bin\Debug\System.Text.Json.xml
+C:\Users\haim\source\repos\mm-cs-Reference\mm-cs-Reference\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\haim\source\repos\mm-cs-Reference\mm-cs-Reference\bin\Debug\System.ValueTuple.xml

@@ -16,6 +16,7 @@ namespace mm_cs_Reference
         }
         static void Main(string[] args)
         {
+            Week13_1_JSOM.Run();
             Week12_7_Generics2<int>.Run();
             Week11_4_Delegate.Instance.Run();
             mm_cs_Working.Cars.Sql();
