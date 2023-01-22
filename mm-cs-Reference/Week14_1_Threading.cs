@@ -11,26 +11,33 @@ namespace mm_cs_Reference
     {
         public void Run()
         {
-            Count c1 = new Count();
-            Count c2 = new Count();
-
-            c1.Run();
-            c2.Run();
+            Count c1 = new Count("A");
+            Count c2 = new Count("B");            
         }
 
     }
 
     class Count 
     {
-         
+        public Count(string label)
+        {
+            Label = label;
+            thread = new Thread(Run);
+            thread.Start();
+        }
+
+        public string Label { get; set; }
+
         public void Run()
         {
             for (int i = 0; i < 10; i++)
             {
-                Console.WriteLine($" This is num {i} ");
+                Console.WriteLine($" This is num {i} {Label}  ");
                 System.Threading.Thread.Sleep(1000);
             }
         }
+
+        Thread thread;
     }
 
     public class Mythread
@@ -40,9 +47,8 @@ namespace mm_cs_Reference
             for (int i = 0; i < 10; i++)
             {
                 Console.WriteLine($" This is num {i} ");
-                Thread.Sleep(500);                
-            }
-
+                Thread.Sleep(500);
+            }                        
         }
 
         Thread thread;
