@@ -88,6 +88,7 @@
     <Compile Include="Week13_1_JSOM.cs" />
     <Compile Include="Week13_1_QueueFiles.cs" />
     <Compile Include="Week13_1_Threading2.cs" />
+    <Compile Include="Week14_1_Threading.cs" />
     <Compile Include="Week8_1_Object.cs" />
     <Compile Include="Week8_4_AddRef.cs" />
     <Compile Include="Week8_4_namespace.cs" />

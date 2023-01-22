@@ -8,10 +8,25 @@
     ".NETCoreApp,Version=v6.0": {
       "mm-cs-WinForm/1.0.0": {
         "dependencies": {
+          "mm-cs-Reference": "1.0.0",
           "mm-cs-Working": "1.0.0"
         },
         "runtime": {
           "mm-cs-WinForm.dll": {}
+        }
+      },
+      "mm-cs-Reference/1.0.0": {
+        "dependencies": {
+          "mm-cs-Reference.Data": "1.0.0",
+          "mm-cs-Working": "1.0.0"
+        },
+        "runtime": {
+          "mm-cs-Reference.exe": {}
+        }
+      },
+      "mm-cs-Reference.Data/1.0.0": {
+        "runtime": {
+          "mm-cs-Reference.Data.dll": {}
         }
       },
       "mm-cs-Working/1.0.0": {
@@ -23,6 +38,16 @@
   },
   "libraries": {
     "mm-cs-WinForm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "mm-cs-Reference/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "mm-cs-Reference.Data/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

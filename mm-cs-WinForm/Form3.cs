@@ -32,5 +32,11 @@ namespace mm_cs_WinForm
             MessageBox.Show(DelegateClass.Instance.Calc(Int32.Parse(textBox1.Text), Int32.Parse(textBox2.Text), DelegateClass.Instance.Minus).ToString());
 
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            mm_cs_Reference.Mythread mythread = new mm_cs_Reference.Mythread();
+            
+        }
     }
 }
