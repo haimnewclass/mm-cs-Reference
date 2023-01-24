@@ -1,14 +1,14 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASI\\Source\\Repos\\haimnewclass\\mm-cs-Reference\\mm-cs-WinForm\\mm-cs-WinForm.csproj": {}
+    "C:\\Users\\ASI\\source\\repos\\haimnewclass\\mm-cs-Reference\\mm-cs-WinForm\\mm-cs-WinForm.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASI\\Source\\Repos\\haimnewclass\\mm-cs-Reference\\mm-cs-Reference.Data\\mm-cs-Reference.Data.csproj": {
+    "C:\\Users\\ASI\\source\\repos\\haimnewclass\\mm-cs-Reference\\mm-cs-Reference.Data\\mm-cs-Reference.Data.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASI\\Source\\Repos\\haimnewclass\\mm-cs-Reference\\mm-cs-Reference.Data\\mm-cs-Reference.Data.csproj",
+        "projectUniqueName": "C:\\Users\\ASI\\source\\repos\\haimnewclass\\mm-cs-Reference\\mm-cs-Reference.Data\\mm-cs-Reference.Data.csproj",
         "projectName": "mm-cs-Reference.Data",
-        "projectPath": "C:\\Users\\ASI\\Source\\Repos\\haimnewclass\\mm-cs-Reference\\mm-cs-Reference.Data\\mm-cs-Reference.Data.csproj",
+        "projectPath": "C:\\Users\\ASI\\source\\repos\\haimnewclass\\mm-cs-Reference\\mm-cs-Reference.Data\\mm-cs-Reference.Data.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {}
@@ -19,19 +19,19 @@
         "net472": {}
       }
     },
-    "C:\\Users\\ASI\\Source\\Repos\\haimnewclass\\mm-cs-Reference\\mm-cs-Reference\\mm-cs-Reference.csproj": {
+    "C:\\Users\\ASI\\source\\repos\\haimnewclass\\mm-cs-Reference\\mm-cs-Reference\\mm-cs-Reference.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASI\\Source\\Repos\\haimnewclass\\mm-cs-Reference\\mm-cs-Reference\\mm-cs-Reference.csproj",
+        "projectUniqueName": "C:\\Users\\ASI\\source\\repos\\haimnewclass\\mm-cs-Reference\\mm-cs-Reference\\mm-cs-Reference.csproj",
         "projectName": "mm-cs-Reference",
-        "projectPath": "C:\\Users\\ASI\\Source\\Repos\\haimnewclass\\mm-cs-Reference\\mm-cs-Reference\\mm-cs-Reference.csproj",
+        "projectPath": "C:\\Users\\ASI\\source\\repos\\haimnewclass\\mm-cs-Reference\\mm-cs-Reference\\mm-cs-Reference.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {
-              "C:\\Users\\ASI\\Source\\Repos\\haimnewclass\\mm-cs-Reference\\mm-cs-Reference.Data\\mm-cs-Reference.Data.csproj": {
-                "projectPath": "C:\\Users\\ASI\\Source\\Repos\\haimnewclass\\mm-cs-Reference\\mm-cs-Reference.Data\\mm-cs-Reference.Data.csproj"
+              "C:\\Users\\ASI\\source\\repos\\haimnewclass\\mm-cs-Reference\\mm-cs-Reference.Data\\mm-cs-Reference.Data.csproj": {
+                "projectPath": "C:\\Users\\ASI\\source\\repos\\haimnewclass\\mm-cs-Reference\\mm-cs-Reference.Data\\mm-cs-Reference.Data.csproj"
               },
-              "C:\\Users\\ASI\\Source\\Repos\\haimnewclass\\mm-cs-Reference\\mm-cs-Working\\mm-cs-Working.csproj": {
-                "projectPath": "C:\\Users\\ASI\\Source\\Repos\\haimnewclass\\mm-cs-Reference\\mm-cs-Working\\mm-cs-Working.csproj"
+              "C:\\Users\\ASI\\source\\repos\\haimnewclass\\mm-cs-Reference\\mm-cs-Working\\mm-cs-Working.csproj": {
+                "projectPath": "C:\\Users\\ASI\\source\\repos\\haimnewclass\\mm-cs-Reference\\mm-cs-Working\\mm-cs-Working.csproj"
               }
             }
           }
@@ -41,14 +41,14 @@
         "net472": {}
       }
     },
-    "C:\\Users\\ASI\\Source\\Repos\\haimnewclass\\mm-cs-Reference\\mm-cs-WinForm\\mm-cs-WinForm.csproj": {
+    "C:\\Users\\ASI\\source\\repos\\haimnewclass\\mm-cs-Reference\\mm-cs-WinForm\\mm-cs-WinForm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASI\\Source\\Repos\\haimnewclass\\mm-cs-Reference\\mm-cs-WinForm\\mm-cs-WinForm.csproj",
+        "projectUniqueName": "C:\\Users\\ASI\\source\\repos\\haimnewclass\\mm-cs-Reference\\mm-cs-WinForm\\mm-cs-WinForm.csproj",
         "projectName": "mm-cs-WinForm",
-        "projectPath": "C:\\Users\\ASI\\Source\\Repos\\haimnewclass\\mm-cs-Reference\\mm-cs-WinForm\\mm-cs-WinForm.csproj",
+        "projectPath": "C:\\Users\\ASI\\source\\repos\\haimnewclass\\mm-cs-Reference\\mm-cs-WinForm\\mm-cs-WinForm.csproj",
         "packagesPath": "C:\\Users\\ASI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASI\\Source\\Repos\\haimnewclass\\mm-cs-Reference\\mm-cs-WinForm\\obj\\",
+        "outputPath": "C:\\Users\\ASI\\source\\repos\\haimnewclass\\mm-cs-Reference\\mm-cs-WinForm\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASI\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -65,11 +65,11 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\Users\\ASI\\Source\\Repos\\haimnewclass\\mm-cs-Reference\\mm-cs-Reference\\mm-cs-Reference.csproj": {
-                "projectPath": "C:\\Users\\ASI\\Source\\Repos\\haimnewclass\\mm-cs-Reference\\mm-cs-Reference\\mm-cs-Reference.csproj"
+              "C:\\Users\\ASI\\source\\repos\\haimnewclass\\mm-cs-Reference\\mm-cs-Reference\\mm-cs-Reference.csproj": {
+                "projectPath": "C:\\Users\\ASI\\source\\repos\\haimnewclass\\mm-cs-Reference\\mm-cs-Reference\\mm-cs-Reference.csproj"
               },
-              "C:\\Users\\ASI\\Source\\Repos\\haimnewclass\\mm-cs-Reference\\mm-cs-Working\\mm-cs-Working.csproj": {
-                "projectPath": "C:\\Users\\ASI\\Source\\Repos\\haimnewclass\\mm-cs-Reference\\mm-cs-Working\\mm-cs-Working.csproj"
+              "C:\\Users\\ASI\\source\\repos\\haimnewclass\\mm-cs-Reference\\mm-cs-Working\\mm-cs-Working.csproj": {
+                "projectPath": "C:\\Users\\ASI\\source\\repos\\haimnewclass\\mm-cs-Reference\\mm-cs-Working\\mm-cs-Working.csproj"
               }
             }
           }
@@ -105,11 +105,11 @@
         }
       }
     },
-    "C:\\Users\\ASI\\Source\\Repos\\haimnewclass\\mm-cs-Reference\\mm-cs-Working\\mm-cs-Working.csproj": {
+    "C:\\Users\\ASI\\source\\repos\\haimnewclass\\mm-cs-Reference\\mm-cs-Working\\mm-cs-Working.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASI\\Source\\Repos\\haimnewclass\\mm-cs-Reference\\mm-cs-Working\\mm-cs-Working.csproj",
+        "projectUniqueName": "C:\\Users\\ASI\\source\\repos\\haimnewclass\\mm-cs-Reference\\mm-cs-Working\\mm-cs-Working.csproj",
         "projectName": "mm-cs-Working",
-        "projectPath": "C:\\Users\\ASI\\Source\\Repos\\haimnewclass\\mm-cs-Reference\\mm-cs-Working\\mm-cs-Working.csproj",
+        "projectPath": "C:\\Users\\ASI\\source\\repos\\haimnewclass\\mm-cs-Reference\\mm-cs-Working\\mm-cs-Working.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {}

@@ -49,3 +49,4 @@ C:\Users\ASI\Source\Repos\haimnewclass\mm-cs-Reference\mm-cs-WinForm\obj\Debug\n
 C:\Users\ASI\Source\Repos\haimnewclass\mm-cs-Reference\mm-cs-WinForm\obj\Debug\net6.0-windows\mm-cs-WinForm.pdb
 C:\Users\ASI\Source\Repos\haimnewclass\mm-cs-Reference\mm-cs-WinForm\obj\Debug\net6.0-windows\mm-cs-WinForm.genruntimeconfig.cache
 C:\Users\ASI\Source\Repos\haimnewclass\mm-cs-Reference\mm-cs-WinForm\obj\Debug\net6.0-windows\ref\mm-cs-WinForm.dll
+C:\Users\ASI\source\repos\haimnewclass\mm-cs-Reference\mm-cs-WinForm\obj\Debug\net6.0-windows\mm_cs_WinForm.FormThread.resources

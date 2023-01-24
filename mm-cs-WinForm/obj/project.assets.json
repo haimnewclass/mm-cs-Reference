@@ -64,11 +64,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASI\\Source\\Repos\\haimnewclass\\mm-cs-Reference\\mm-cs-WinForm\\mm-cs-WinForm.csproj",
+      "projectUniqueName": "C:\\Users\\ASI\\source\\repos\\haimnewclass\\mm-cs-Reference\\mm-cs-WinForm\\mm-cs-WinForm.csproj",
       "projectName": "mm-cs-WinForm",
-      "projectPath": "C:\\Users\\ASI\\Source\\Repos\\haimnewclass\\mm-cs-Reference\\mm-cs-WinForm\\mm-cs-WinForm.csproj",
+      "projectPath": "C:\\Users\\ASI\\source\\repos\\haimnewclass\\mm-cs-Reference\\mm-cs-WinForm\\mm-cs-WinForm.csproj",
       "packagesPath": "C:\\Users\\ASI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASI\\Source\\Repos\\haimnewclass\\mm-cs-Reference\\mm-cs-WinForm\\obj\\",
+      "outputPath": "C:\\Users\\ASI\\source\\repos\\haimnewclass\\mm-cs-Reference\\mm-cs-WinForm\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASI\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -85,11 +85,11 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\ASI\\Source\\Repos\\haimnewclass\\mm-cs-Reference\\mm-cs-Reference\\mm-cs-Reference.csproj": {
-              "projectPath": "C:\\Users\\ASI\\Source\\Repos\\haimnewclass\\mm-cs-Reference\\mm-cs-Reference\\mm-cs-Reference.csproj"
+            "C:\\Users\\ASI\\source\\repos\\haimnewclass\\mm-cs-Reference\\mm-cs-Reference\\mm-cs-Reference.csproj": {
+              "projectPath": "C:\\Users\\ASI\\source\\repos\\haimnewclass\\mm-cs-Reference\\mm-cs-Reference\\mm-cs-Reference.csproj"
             },
-            "C:\\Users\\ASI\\Source\\Repos\\haimnewclass\\mm-cs-Reference\\mm-cs-Working\\mm-cs-Working.csproj": {
-              "projectPath": "C:\\Users\\ASI\\Source\\Repos\\haimnewclass\\mm-cs-Reference\\mm-cs-Working\\mm-cs-Working.csproj"
+            "C:\\Users\\ASI\\source\\repos\\haimnewclass\\mm-cs-Reference\\mm-cs-Working\\mm-cs-Working.csproj": {
+              "projectPath": "C:\\Users\\ASI\\source\\repos\\haimnewclass\\mm-cs-Reference\\mm-cs-Working\\mm-cs-Working.csproj"
             }
           }
         }
