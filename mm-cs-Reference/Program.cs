@@ -16,6 +16,16 @@ namespace mm_cs_Reference
         }
         static void Main(string[] args)
         {
+            Week14_2_Tasks week14_2_Tasks = new Week14_2_Tasks();
+            week14_2_Tasks.Run();
+
+            System.Threading.Thread.Sleep(900000);
+
+
+            Week14_1_Threading week14_1_Threading = new Week14_1_Threading();
+            week14_1_Threading.Run();
+
+            return;
             Week13_1_JSOM.Run();
             Week12_7_Generics2<int>.Run();
             Week11_4_Delegate.Instance.Run();

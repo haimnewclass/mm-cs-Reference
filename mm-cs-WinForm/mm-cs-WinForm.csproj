@@ -10,6 +10,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\mm-cs-Reference\mm-cs-Reference.csproj" />
     <ProjectReference Include="..\mm-cs-Working\mm-cs-Working.csproj" />
   </ItemGroup>
 

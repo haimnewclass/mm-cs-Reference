@@ -2,6 +2,28 @@
   "version": 3,
   "targets": {
     "net6.0-windows7.0": {
+      "mm-cs-Reference/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "mm-cs-Reference.Data": "1.0.0",
+          "mm-cs-Working": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/mm-cs-Reference.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/mm-cs-Reference.dll": {}
+        }
+      },
+      "mm-cs-Reference.Data/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/mm-cs-Reference.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/mm-cs-Reference.Data.dll": {}
+        }
+      },
       "mm-cs-Working/1.0.0": {
         "type": "project",
         "compile": {
@@ -14,6 +36,16 @@
     }
   },
   "libraries": {
+    "mm-cs-Reference/1.0.0": {
+      "type": "project",
+      "path": "../mm-cs-Reference/mm-cs-Reference.csproj",
+      "msbuildProject": "../mm-cs-Reference/mm-cs-Reference.csproj"
+    },
+    "mm-cs-Reference.Data/1.0.0": {
+      "type": "project",
+      "path": "../mm-cs-Reference.Data/mm-cs-Reference.Data.csproj",
+      "msbuildProject": "../mm-cs-Reference.Data/mm-cs-Reference.Data.csproj"
+    },
     "mm-cs-Working/1.0.0": {
       "type": "project",
       "path": "../mm-cs-Working/mm-cs-Working.csproj",
@@ -22,27 +54,28 @@
   },
   "projectFileDependencyGroups": {
     "net6.0-windows7.0": [
+      "mm-cs-Reference >= 1.0.0",
       "mm-cs-Working >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\haim\\.nuget\\packages\\": {}
+    "C:\\Users\\ASI\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\haim\\source\\repos\\mm-cs-Reference\\mm-cs-WinForm\\mm-cs-WinForm.csproj",
+      "projectUniqueName": "C:\\Users\\ASI\\source\\repos\\haimnewclass\\mm-cs-Reference\\mm-cs-WinForm\\mm-cs-WinForm.csproj",
       "projectName": "mm-cs-WinForm",
-      "projectPath": "C:\\Users\\haim\\source\\repos\\mm-cs-Reference\\mm-cs-WinForm\\mm-cs-WinForm.csproj",
-      "packagesPath": "C:\\Users\\haim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\haim\\source\\repos\\mm-cs-Reference\\mm-cs-WinForm\\obj\\",
+      "projectPath": "C:\\Users\\ASI\\source\\repos\\haimnewclass\\mm-cs-Reference\\mm-cs-WinForm\\mm-cs-WinForm.csproj",
+      "packagesPath": "C:\\Users\\ASI\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ASI\\source\\repos\\haimnewclass\\mm-cs-Reference\\mm-cs-WinForm\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\haim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ASI\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net6.0-windows"
+        "net6.0-windows7.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -52,8 +85,11 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\haim\\source\\repos\\mm-cs-Reference\\mm-cs-Working\\mm-cs-Working.csproj": {
-              "projectPath": "C:\\Users\\haim\\source\\repos\\mm-cs-Reference\\mm-cs-Working\\mm-cs-Working.csproj"
+            "C:\\Users\\ASI\\source\\repos\\haimnewclass\\mm-cs-Reference\\mm-cs-Reference\\mm-cs-Reference.csproj": {
+              "projectPath": "C:\\Users\\ASI\\source\\repos\\haimnewclass\\mm-cs-Reference\\mm-cs-Reference\\mm-cs-Reference.csproj"
+            },
+            "C:\\Users\\ASI\\source\\repos\\haimnewclass\\mm-cs-Reference\\mm-cs-Working\\mm-cs-Working.csproj": {
+              "projectPath": "C:\\Users\\ASI\\source\\repos\\haimnewclass\\mm-cs-Reference\\mm-cs-Working\\mm-cs-Working.csproj"
             }
           }
         }
@@ -73,8 +109,7 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -86,7 +121,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
