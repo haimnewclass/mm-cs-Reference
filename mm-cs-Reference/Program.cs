@@ -12,10 +12,13 @@ namespace mm_cs_Reference
     {
         static int GetA()
         {
+            
             return 0;
         }
         static void Main(string[] args)
         {
+            //Week14_4_IEnumerable week14_4_IEnumerable = new Week14_4_IEnumerable();
+           // week14_4_IEnumerable.Run();
             Week14_2_Tasks week14_2_Tasks = new Week14_2_Tasks();
             week14_2_Tasks.Run();
 

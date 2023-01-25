@@ -38,12 +38,12 @@ namespace mm_cs_WinForm
             object i1 = new Dictionary<int, int>();
             object i2 = new List<int>();
 
-            object i3 = i1.GetType() switch
+           /* object i3 = i1.GetType() switch
             {
                 (Dictionary<int, int>) => new Dictionary<int, int>(),
                 "33123" => new Dictionary<int, int>(),
                 _ => new Dictionary<int, int>()
-            };
+            };*/
 
 
             var f = await EndLessLoop();
@@ -64,6 +64,24 @@ namespace mm_cs_WinForm
                 
                 return 89;
             });
+        }
+
+        private async void button2_Click(object sender, EventArgs e)
+        {
+            var t = await GotoInternet();
+            label1.Text = t ;
+          //  t.Result 
+        }
+
+        public Task<string> GotoInternet()
+        {
+            return Task.Run(() =>
+            {
+                Thread.Sleep(5000);
+                return "ResultFrom Internet";
+            });
+
+
         }
     }
 }
