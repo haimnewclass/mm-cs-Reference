@@ -50,7 +50,8 @@ namespace Winform3
 
     class Item
     {
-
+        public DateTime dateTime;
+        public Exception exception;
         public int Id { get; set; }
         public string Name { get; set; }
     }
