@@ -58,6 +58,11 @@ namespace mm_cs_WinForm
 
         public Task<string> GoToInternet()
         {
+            Task.Run(() => {
+                Thread.Sleep(1000);
+                return "swdtetertert";
+            });
+
             return Task.Run( () => {
             Thread.Sleep(1000);
                 return "swdtetertert";

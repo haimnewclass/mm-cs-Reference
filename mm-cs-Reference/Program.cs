@@ -17,6 +17,22 @@ namespace mm_cs_Reference
         }
         static void Main(string[] args)
         {
+
+            mm_cs_Reference.Design.Week15_1_Pattern_Provider aa = new Design.Week15_1_Pattern_Provider();
+
+            aa.Run(Design.Week15_1_Pattern_Provider.providerType.car);
+            aa.CurrMotion.F(100);
+            aa.CurrMotion.B(50);
+            aa.Run(Design.Week15_1_Pattern_Provider.providerType.korkinet);
+            aa.CurrMotion.F(20);
+
+
+
+
+
+
+
+
             Test1 t = new Test1();
             t.Ran();
 
