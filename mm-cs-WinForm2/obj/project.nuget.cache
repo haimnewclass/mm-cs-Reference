@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "9nSgcuZ5jHaNHNJHieyzH5k6N/dOwc9uSjc7zc/VrLf2MPN+QiZeZamFXa0nA+hXKWdaXpKWKerXrq8SnQH4kA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASI\\source\\repos\\haimnewclass\\mm-cs-Reference\\mm-cs-WinForm2\\mm-cs-WinForm2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASI\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512",
+    "C:\\Users\\ASI\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ASI\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ASI\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
