@@ -10,6 +10,7 @@ namespace mm_cs_Reference.Design
     {
         void Init();
         void LogEvent(string msg);
+        void LogError(string msg);
         void LogException(string msg,Exception exce);
         void LogCheckHoseKeeping();
     }
