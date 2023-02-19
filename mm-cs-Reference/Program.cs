@@ -17,7 +17,8 @@ namespace mm_cs_Reference
         }
         static void Main(string[] args)
         {
-
+            mm_cs_Reference.Events.Week16_1_Event week16_1_Event = new mm_cs_Reference.Events.Week16_1_Event();
+            week16_1_Event.Run();
             mm_cs_Reference.Design.Week15_1_Pattern_Provider aa = new Design.Week15_1_Pattern_Provider();
 
             aa.Run(Design.Week15_1_Pattern_Provider.providerType.car);
