@@ -39,6 +39,7 @@ namespace mm_cs_Reference.Events
         public void RunEvent()
         {
             broadcast(30, 40);
+            broadcast(300, 400);
         }
 
     }
