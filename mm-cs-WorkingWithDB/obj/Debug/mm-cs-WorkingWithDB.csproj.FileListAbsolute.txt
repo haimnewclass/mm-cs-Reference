@@ -9,3 +9,14 @@ C:\Users\haim\source\repos\mm-cs-Reference\mm-cs-WorkingWithDB\bin\Debug\mm-cs-W
 C:\Users\haim\source\repos\mm-cs-Reference\mm-cs-WorkingWithDB\bin\Debug\mm-cs-WorkingWithDB.pdb
 C:\Users\haim\source\repos\mm-cs-Reference\mm-cs-WorkingWithDB\obj\Debug\mm-cs-WorkingWithDB.exe
 C:\Users\haim\source\repos\mm-cs-Reference\mm-cs-WorkingWithDB\obj\Debug\mm-cs-WorkingWithDB.pdb
+C:\Users\ASI\source\repos\haimnewclass\mm-cs-Reference\mm-cs-WorkingWithDB\bin\Debug\mm-cs-WorkingWithDB.exe.config
+C:\Users\ASI\source\repos\haimnewclass\mm-cs-Reference\mm-cs-WorkingWithDB\bin\Debug\mm-cs-WorkingWithDB.exe
+C:\Users\ASI\source\repos\haimnewclass\mm-cs-Reference\mm-cs-WorkingWithDB\bin\Debug\mm-cs-WorkingWithDB.pdb
+C:\Users\ASI\source\repos\haimnewclass\mm-cs-Reference\mm-cs-WorkingWithDB\obj\Debug\mm-cs-WorkingWithDB.csproj.AssemblyReference.cache
+C:\Users\ASI\source\repos\haimnewclass\mm-cs-Reference\mm-cs-WorkingWithDB\obj\Debug\mm-cs-WorkingWithDB.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASI\source\repos\haimnewclass\mm-cs-Reference\mm-cs-WorkingWithDB\obj\Debug\mm_cs_WorkingWithDB.Form1.resources
+C:\Users\ASI\source\repos\haimnewclass\mm-cs-Reference\mm-cs-WorkingWithDB\obj\Debug\mm_cs_WorkingWithDB.Properties.Resources.resources
+C:\Users\ASI\source\repos\haimnewclass\mm-cs-Reference\mm-cs-WorkingWithDB\obj\Debug\mm-cs-WorkingWithDB.csproj.GenerateResource.cache
+C:\Users\ASI\source\repos\haimnewclass\mm-cs-Reference\mm-cs-WorkingWithDB\obj\Debug\mm-cs-WorkingWithDB.csproj.CoreCompileInputs.cache
+C:\Users\ASI\source\repos\haimnewclass\mm-cs-Reference\mm-cs-WorkingWithDB\obj\Debug\mm-cs-WorkingWithDB.exe
+C:\Users\ASI\source\repos\haimnewclass\mm-cs-Reference\mm-cs-WorkingWithDB\obj\Debug\mm-cs-WorkingWithDB.pdb
