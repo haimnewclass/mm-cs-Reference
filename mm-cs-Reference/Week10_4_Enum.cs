@@ -9,7 +9,7 @@ namespace mm_cs_Reference
     internal class Week10_4_Enum
     {
         // Enumeration
-        int age;
+        int age; 
 
         string days="kuku";
 
