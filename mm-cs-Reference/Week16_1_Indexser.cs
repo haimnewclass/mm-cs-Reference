@@ -22,6 +22,7 @@ namespace mm_cs_Reference.Inder
             mng["ccc"] = new Item() { Id = -18 };
             mng["111"] = new Item() { Id = -18 };
             mng[111] = new Item() { Id = -18 };
+            Console.WriteLine(mng["111"].Id);
         }
 
     }
