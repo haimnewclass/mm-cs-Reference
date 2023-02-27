@@ -15,7 +15,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mm-cs-WorkingWithDB", "mm-c
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "mm-cs-MicroServices", "mm-cs-MicroServices\mm-cs-MicroServices.csproj", "{F840C6E8-E4E4-46C1-AA63-8C4E70FA7D2B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Winform3", "Winform3\Winform3.csproj", "{0C0628D5-0661-4E45-B32C-3AF619B3EBF0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Winform3", "Winform3\Winform3.csproj", "{0C0628D5-0661-4E45-B32C-3AF619B3EBF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mm-cs-Reference.Test", "mm-cs-Reference.Test\mm-cs-Reference.Test.csproj", "{2064594A-4A42-4AAB-A6BB-733E1F6B54FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{0C0628D5-0661-4E45-B32C-3AF619B3EBF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C0628D5-0661-4E45-B32C-3AF619B3EBF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C0628D5-0661-4E45-B32C-3AF619B3EBF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2064594A-4A42-4AAB-A6BB-733E1F6B54FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2064594A-4A42-4AAB-A6BB-733E1F6B54FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2064594A-4A42-4AAB-A6BB-733E1F6B54FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2064594A-4A42-4AAB-A6BB-733E1F6B54FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -95,6 +95,7 @@
     <Compile Include="Week15_1_Pattern_Provider.cs" />
     <Compile Include="Week16_1_Event.cs" />
     <Compile Include="Week16_1_Indexser.cs" />
+    <Compile Include="Week17_Calc.cs" />
     <Compile Include="Week8_1_Object.cs" />
     <Compile Include="Week8_4_AddRef.cs" />
     <Compile Include="Week8_4_namespace.cs" />
