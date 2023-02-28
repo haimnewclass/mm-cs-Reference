@@ -1,0 +1,29 @@
+﻿<Orders>
+	<Order Id="123" Name="Tnuva">
+		<Item Id="Milki" price="3"></Item>
+		<Item Id="Cola" price="5">
+
+			<Bottle Color="Green"></Bottle>
+		</Item>
+		<Item Id="Milk" price="8"></Item>
+	</Order>
+	<Order Id="567" Name="Tnuva">
+		<Item Id="Milki" price="3"/>
+		<Item Id="Cola" price="5" count="&lt;" >
+			<![CDATA[ 
+			sdkfjsldkfhj s
+			fgsd
+			fgsd
+			< asd @#$%#$%  />a
+			sdfsdf
+			fggsdfgsdfg
+			]]>
+		</Item>
+		<Item Id="Milk" price="8">
+			<!-- comment
+			sdfsdfsdf 
+			dfsdfsdfsdfsdf
+			sdfsdfsdfsdf-->
+		</Item>
+	</Order>
+</Orders>

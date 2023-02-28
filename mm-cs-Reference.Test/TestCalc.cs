@@ -3,12 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using mm_cs_Reference;
 using NUnit.Framework;
 
-namespace mm_cs_Reference.Test
+namespace mm_cs_Reference1.Test
 {
     [TestFixture]
-    internal class TestCalc
+    public class TestCalc
     {
         
         [SetUp]
@@ -35,7 +36,7 @@ namespace mm_cs_Reference.Test
             int a = 21;
             int b = 20;
             int c = a + b;
-            Week17_Calc myCalc = new Week17_Calc();
+            mm_cs_Reference.Week17_Calc myCalc = new mm_cs_Reference.Week17_Calc();
 
             Assert.That(myCalc.Plus(a, b), Is.InRange(10, 1000));
             Assert.That(myCalc.Plus(a, b), Is.LessThan(800));

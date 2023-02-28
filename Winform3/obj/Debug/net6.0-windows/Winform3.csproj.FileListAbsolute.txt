@@ -4,6 +4,7 @@ C:\Users\ASI\source\repos\haimnewclass\mm-cs-Reference\Winform3\bin\Debug\net6.0
 C:\Users\ASI\source\repos\haimnewclass\mm-cs-Reference\Winform3\bin\Debug\net6.0-windows\Winform3.dll
 C:\Users\ASI\source\repos\haimnewclass\mm-cs-Reference\Winform3\bin\Debug\net6.0-windows\Winform3.pdb
 C:\Users\ASI\source\repos\haimnewclass\mm-cs-Reference\Winform3\obj\Debug\net6.0-windows\Winform3.csproj.AssemblyReference.cache
+C:\Users\ASI\source\repos\haimnewclass\mm-cs-Reference\Winform3\obj\Debug\net6.0-windows\Winform3.Form1.resources
 C:\Users\ASI\source\repos\haimnewclass\mm-cs-Reference\Winform3\obj\Debug\net6.0-windows\Winform3.csproj.GenerateResource.cache
 C:\Users\ASI\source\repos\haimnewclass\mm-cs-Reference\Winform3\obj\Debug\net6.0-windows\Winform3.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\ASI\source\repos\haimnewclass\mm-cs-Reference\Winform3\obj\Debug\net6.0-windows\Winform3.AssemblyInfoInputs.cache
@@ -14,4 +15,3 @@ C:\Users\ASI\source\repos\haimnewclass\mm-cs-Reference\Winform3\obj\Debug\net6.0
 C:\Users\ASI\source\repos\haimnewclass\mm-cs-Reference\Winform3\obj\Debug\net6.0-windows\Winform3.pdb
 C:\Users\ASI\source\repos\haimnewclass\mm-cs-Reference\Winform3\obj\Debug\net6.0-windows\Winform3.genruntimeconfig.cache
 C:\Users\ASI\source\repos\haimnewclass\mm-cs-Reference\Winform3\obj\Debug\net6.0-windows\ref\Winform3.dll
-C:\Users\ASI\source\repos\haimnewclass\mm-cs-Reference\Winform3\obj\Debug\net6.0-windows\Winform3.Form1.resources

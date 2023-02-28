@@ -4,9 +4,9 @@ C:\Users\haim\source\repos\mm-cs-Reference\mm-cs-Working\obj\Debug\mm-cs-Working
 C:\Users\haim\source\repos\mm-cs-Reference\mm-cs-Working\obj\Debug\mm-cs-Working.csproj.CoreCompileInputs.cache
 C:\Users\haim\source\repos\mm-cs-Reference\mm-cs-Working\obj\Debug\mm-cs-Working.dll
 C:\Users\haim\source\repos\mm-cs-Reference\mm-cs-Working\obj\Debug\mm-cs-Working.pdb
-C:\Users\ASI\Source\Repos\haimnewclass\mm-cs-Reference\mm-cs-Working\bin\Debug\mm-cs-Working.dll
-C:\Users\ASI\Source\Repos\haimnewclass\mm-cs-Reference\mm-cs-Working\bin\Debug\mm-cs-Working.pdb
-C:\Users\ASI\Source\Repos\haimnewclass\mm-cs-Reference\mm-cs-Working\obj\Debug\mm-cs-Working.csproj.AssemblyReference.cache
-C:\Users\ASI\Source\Repos\haimnewclass\mm-cs-Reference\mm-cs-Working\obj\Debug\mm-cs-Working.csproj.CoreCompileInputs.cache
-C:\Users\ASI\Source\Repos\haimnewclass\mm-cs-Reference\mm-cs-Working\obj\Debug\mm-cs-Working.dll
-C:\Users\ASI\Source\Repos\haimnewclass\mm-cs-Reference\mm-cs-Working\obj\Debug\mm-cs-Working.pdb
+C:\Users\ASI\source\repos\haimnewclass\mm-cs-Reference\mm-cs-Working\bin\Debug\mm-cs-Working.dll
+C:\Users\ASI\source\repos\haimnewclass\mm-cs-Reference\mm-cs-Working\bin\Debug\mm-cs-Working.pdb
+C:\Users\ASI\source\repos\haimnewclass\mm-cs-Reference\mm-cs-Working\obj\Debug\mm-cs-Working.csproj.AssemblyReference.cache
+C:\Users\ASI\source\repos\haimnewclass\mm-cs-Reference\mm-cs-Working\obj\Debug\mm-cs-Working.csproj.CoreCompileInputs.cache
+C:\Users\ASI\source\repos\haimnewclass\mm-cs-Reference\mm-cs-Working\obj\Debug\mm-cs-Working.dll
+C:\Users\ASI\source\repos\haimnewclass\mm-cs-Reference\mm-cs-Working\obj\Debug\mm-cs-Working.pdb

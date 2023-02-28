@@ -5,6 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
  
 using Lunapark;
+using System.Runtime.CompilerServices;
+[assembly: InternalsVisibleTo("mm_cs_Reference1.Test")]
 
 namespace mm_cs_Reference
 {
@@ -17,6 +19,9 @@ namespace mm_cs_Reference
         }
         static void Main(string[] args)
         {
+
+            Week17_3_xml week17_3_Xml = new Week17_3_xml();
+            week17_3_Xml.Run();
             mm_cs_Reference.Events.Week16_1_Event week16_1_Event = new mm_cs_Reference.Events.Week16_1_Event();
             week16_1_Event.Run();
             mm_cs_Reference.Design.Week15_1_Pattern_Provider aa = new Design.Week15_1_Pattern_Provider();
