@@ -19,6 +19,10 @@ namespace mm_cs_Reference
         }
         static void Main(string[] args)
         {
+            Week17_5_HttpRequest week17_5_HttpRequest = new Week17_5_HttpRequest();
+            week17_5_HttpRequest.Run();
+
+            System.Threading.Thread.Sleep(90000000);
 
             Week17_3_xml week17_3_Xml = new Week17_3_xml();
             week17_3_Xml.Run();
