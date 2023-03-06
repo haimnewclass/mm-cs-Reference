@@ -1,0 +1,12 @@
+C:\Users\ASI\source\repos\haimnewclass\mm-cs-Reference\mm-cs-DataManipulation\obj\Debug\net6.0\mm-cs-DataManipulation.csproj.AssemblyReference.cache
+C:\Users\ASI\source\repos\haimnewclass\mm-cs-Reference\mm-cs-DataManipulation\obj\Debug\net6.0\mm-cs-DataManipulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASI\source\repos\haimnewclass\mm-cs-Reference\mm-cs-DataManipulation\obj\Debug\net6.0\mm-cs-DataManipulation.AssemblyInfoInputs.cache
+C:\Users\ASI\source\repos\haimnewclass\mm-cs-Reference\mm-cs-DataManipulation\obj\Debug\net6.0\mm-cs-DataManipulation.AssemblyInfo.cs
+C:\Users\ASI\source\repos\haimnewclass\mm-cs-Reference\mm-cs-DataManipulation\obj\Debug\net6.0\mm-cs-DataManipulation.csproj.CoreCompileInputs.cache
+C:\Users\ASI\source\repos\haimnewclass\mm-cs-Reference\mm-cs-DataManipulation\bin\Debug\net6.0\mm-cs-DataManipulation.deps.json
+C:\Users\ASI\source\repos\haimnewclass\mm-cs-Reference\mm-cs-DataManipulation\bin\Debug\net6.0\mm-cs-DataManipulation.dll
+C:\Users\ASI\source\repos\haimnewclass\mm-cs-Reference\mm-cs-DataManipulation\bin\Debug\net6.0\mm-cs-DataManipulation.pdb
+C:\Users\ASI\source\repos\haimnewclass\mm-cs-Reference\mm-cs-DataManipulation\obj\Debug\net6.0\mm-cs-DataManipulation.dll
+C:\Users\ASI\source\repos\haimnewclass\mm-cs-Reference\mm-cs-DataManipulation\obj\Debug\net6.0\refint\mm-cs-DataManipulation.dll
+C:\Users\ASI\source\repos\haimnewclass\mm-cs-Reference\mm-cs-DataManipulation\obj\Debug\net6.0\mm-cs-DataManipulation.pdb
+C:\Users\ASI\source\repos\haimnewclass\mm-cs-Reference\mm-cs-DataManipulation\obj\Debug\net6.0\ref\mm-cs-DataManipulation.dll

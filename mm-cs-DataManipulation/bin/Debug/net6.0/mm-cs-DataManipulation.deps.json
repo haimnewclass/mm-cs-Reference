@@ -6,6 +6,14 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
+      "mm-cs-DataManipulation/1.0.0": {
+        "dependencies": {
+          "AutoMapper": "12.0.1"
+        },
+        "runtime": {
+          "mm-cs-DataManipulation.dll": {}
+        }
+      },
       "AutoMapper/12.0.1": {
         "dependencies": {
           "Microsoft.CSharp": "4.7.0"
@@ -21,6 +29,11 @@
     }
   },
   "libraries": {
+    "mm-cs-DataManipulation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "AutoMapper/12.0.1": {
       "type": "package",
       "serviceable": true,

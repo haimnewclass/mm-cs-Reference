@@ -8,4 +8,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\mm-cs-DataManipulation\mm-cs-DataManipulation.csproj" />
+  </ItemGroup>
+
 </Project>

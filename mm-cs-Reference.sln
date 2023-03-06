@@ -19,6 +19,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Winform3", "Winform3\Winfor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mm-cs-Reference.Test", "mm-cs-Reference.Test\mm-cs-Reference.Test.csproj", "{2064594A-4A42-4AAB-A6BB-733E1F6B54FC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mm-cs-DataManipulation", "mm-cs-DataManipulation\mm-cs-DataManipulation.csproj", "{BFE477FE-21AB-4EC8-B158-82AB8C259DE5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{2064594A-4A42-4AAB-A6BB-733E1F6B54FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2064594A-4A42-4AAB-A6BB-733E1F6B54FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2064594A-4A42-4AAB-A6BB-733E1F6B54FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFE477FE-21AB-4EC8-B158-82AB8C259DE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFE477FE-21AB-4EC8-B158-82AB8C259DE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFE477FE-21AB-4EC8-B158-82AB8C259DE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFE477FE-21AB-4EC8-B158-82AB8C259DE5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
