@@ -7,7 +7,18 @@ using System.Threading.Tasks;
 namespace mm_cs_DataManipulation
 {
     internal class Class2
-    {
+
+        public class Rootobject
+        {
+            public Employee[] employees { get; set; }
+        }
+
+        public class Employee
+        {
+            public string firstName { get; set; }
+            public string lastName { get; set; }
+        }
+
 
         public class Rootobject
         {
